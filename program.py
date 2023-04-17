@@ -57,3 +57,4 @@ if topping1== "Y":
                 tax= (pizzabill + toppingsbill1 + toppingsbill2 + toppingsbill3 + toppingsbill4) * 0.13
                 print("Tax: $", tax)
                 finalcost= (pizzabill + toppingsbill1 + toppingsbill2 + toppingsbill3 + toppingsbill4) * 1.13
+                print(finalcost)
